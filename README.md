@@ -1,1 +1,1 @@
-<center>Transformice ranking MySQL</center>
+<h1>Transformice ranking MySQL</h1>
