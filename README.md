@@ -1,1 +1,1 @@
-# transformice-ranking
+<center>Transformice ranking MySQL</center>
