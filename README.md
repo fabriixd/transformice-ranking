@@ -1,4 +1,8 @@
-<h1>Transformice ranking MySQL</h1>
-<br>
-<p>Ranking hecho en HTML, PHP y MySQL para ser usado en Transformice Pirata.</p>
-<p>Créditos a quién corresponda</p>
+<div align="center">
+    <hr>
+    <h1>~ Transformice Ranking ~</h1>
+    <strong>
+        Ranking hecho en HTML, PHP y MySQL para ser usado en Transformice Pirata.<br>
+        Créditos a quien corresponda.
+    </strong><br><br>
+</div>
